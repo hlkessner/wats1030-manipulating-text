@@ -1,9 +1,0 @@
-<VirtualHost *:80>
-DocumentRoot /www/unix
-ServerName www.unix.com
-</VirtualHost>
-
-<VirtualHost *:80>
-DocumentRoot /www/linix
-ServerName www.unix.org
-</VirtualHost>
